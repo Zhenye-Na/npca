@@ -4,7 +4,7 @@ Course project for [IE529: Stats of Big data & Clustering](https://ise.illinois.
 | Name           | Guthub Homepage                           |
 |----------------|-------------------------------------------|
 | Jvn Karthik    |                                           |
-| Naman          | [namanUIUC](https://github.com/namanUIUC) |
+| Naman Shukla   | [namanUIUC](https://github.com/namanUIUC) |
 | Shubham Bansal |                                           |
 | Zhenye Na      | [Zhenye-Na](https://github.com/Zhenye-Na) |
 | Ziyu Zhou      | [Ziyu0](https://github.com/Ziyu0)         |
