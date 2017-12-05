@@ -7,7 +7,7 @@ Course project for [IE529: Stats of Big data & Clustering](https://ise.illinois.
 | Naman          | [namanUIUC](https://github.com/namanUIUC) |
 | Shubham Bansal |                                           |
 | Zhenye Na      | [Zhenye-Na](https://github.com/Zhenye-Na) |
-| Ziyu Zhou      | [Ziyu Zhou](https://github.com/Ziyu0)     |
+| Ziyu Zhou      | [Ziyu0](https://github.com/Ziyu0)         |
 
 ## Our primary work
 We implemnt the experiments presented in the paper Nonlinear Component Analysis as a Kernel Eigenvalue Problem by Bernhard Schölkopf, Alexander Smola, Klaus-Robert Müller. Also, we write our own example on Kernel PCA. In this regard, you can read our report and our presentation slides.
