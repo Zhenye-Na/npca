@@ -1,5 +1,6 @@
 # Nonlinear Component Analysis as a Kernel Eigenvalue Problem
 Course project for [IE529: Stats of Big data & Clustering](https://ise.illinois.edu/courses/profile/IE529-120168), 2017 Fall, UIUC
+
 ## Our team member
 | Name           | Guthub Homepage                           |
 |----------------|-------------------------------------------|
@@ -26,7 +27,7 @@ You can install them by typing
 The prgramming languages we use are Python and MATLAB. If you do not have access to MATLAB on your laptop. We advise you to install `Octave` instead. You can refer to [this](https://www.gnu.org/software/octave/download.html) webpage for installing.
 
 ## Experiments in paper
-In the paper, there are three major experiments:
+In the paper, there are two major experiments:
 - Toy example: 4-degree Polynomial Kernel PCA
 - Character Recognition (USPS Dataset)
 
