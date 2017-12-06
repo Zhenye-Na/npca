@@ -31,7 +31,7 @@ In the paper, there are three major experiments:
 - Character Recognition (USPS Dataset)
 
 ### Toy example: 4-degree Polynomial Kernel PCA
-We implemented this part with MATLAB. The code can be found [here].
+We implemented this part with MATLAB. The code can be found [here](https://github.com/Zhenye-Na/npca/blob/master/our_kpca/kpca_code.m).
 
 ## Our own implementation
 ### SVM and KPCA on Iris Dataset
