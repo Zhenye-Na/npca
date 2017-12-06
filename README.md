@@ -42,4 +42,4 @@ Related codes can be found here.
 ### SVC on USPS Dataset
 The dataset contains numeric data obtained from the scanning of handwritten digits from envelopes by the U.S. Postal Service. The original scanned digits are binary and of diﬀerent sizes and orientations; the images here have been deslanted and size normalized, resulting in 16 × 16 grayscale. We will ﬁrst extract features via Kernel PCA and apply that to a SVM classiﬁer to train and test on the splitted USPS dataset.
 
-Related codes can be found here.
+Related codes can be found [here](https://github.com/Zhenye-Na/npca/blob/master/application/SVC_on_USPS.ipynb).
