@@ -2,13 +2,13 @@
 Course project for [IE529: Stats of Big data & Clustering](https://ise.illinois.edu/courses/profile/IE529-120168), 2017 Fall, UIUC
 
 ## Our team member
-| Name           | Guthub Homepage                           |
-|----------------|-------------------------------------------|
-| Jvn Karthik    | N/A                                       |
-| Naman Shukla   | [namanUIUC](https://github.com/namanUIUC) |
-| Shubham Bansal | N/A                                       |
-| Zhenye Na      | [Zhenye-Na](https://github.com/Zhenye-Na) |
-| Ziyu Zhou      | [Ziyu0](https://github.com/Ziyu0)         |
+| Name           | Guthub Homepage                                   |
+|----------------|---------------------------------------------------|
+| Jvn Karthik    | N/A                                               |
+| Naman Shukla   | [namanUIUC](https://github.com/namanUIUC)         |
+| Shubham Bansal | [bansalshubh91](https://github.com/bansalshubh91) |
+| Zhenye Na      | [Zhenye-Na](https://github.com/Zhenye-Na)         |
+| Ziyu Zhou      | [Ziyu0](https://github.com/Ziyu0)                 |
 
 ## Our primary work
 We implemnt the experiments presented in the paper Nonlinear Component Analysis as a Kernel Eigenvalue Problem by Bernhard Schölkopf, Alexander Smola, Klaus-Robert Müller. Also, we write our own example on Kernel PCA. In this regard, you can read our report and our presentation slides.
